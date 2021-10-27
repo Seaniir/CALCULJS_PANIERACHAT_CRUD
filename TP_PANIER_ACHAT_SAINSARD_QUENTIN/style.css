@@ -1,0 +1,13 @@
+.itemContainer1, .itemContainer2{
+    background-color: #DFF0D8;
+    border: solid 1px;
+    border-top: none;
+}
+
+.itemContainer1:nth-child(1){
+    border-top: solid 1px;
+}
+
+.itemContainer2{
+    background-color: #D9EDF7;
+}

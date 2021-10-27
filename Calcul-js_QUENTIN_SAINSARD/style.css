@@ -1,0 +1,45 @@
+table{
+    text-align: center;
+}
+
+input{
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+}
+
+.options button{
+    border: none;
+    height: 0%;
+}
+
+.status button{
+    border: none;
+    background: none;
+}
+
+.options span, .status span{
+    margin-top: 0.5%;
+    margin-left: 1%;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.status span{
+    margin-left: 5.5%;
+}
+
+.status div{
+    border-radius: 0px 50px 50px 0px;
+}
+
+.status p{
+    height: 1%;
+    margin-bottom: 0;
+}
+
+.endText, .endText2{
+    text-align: center;
+    font-size: 24px;
+    height: 50px;
+}
